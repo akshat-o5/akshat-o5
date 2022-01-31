@@ -20,7 +20,7 @@
 
 - ✨ **Currently , mastering Data Structures and Algorithms in Java.**
 
-- **ONE LINE OF CODE AT A TIME.✨**
+- ✨ **ONE LINE OF CODE AT A TIME.**
 
 > Some of my test repository are private right now.
 
