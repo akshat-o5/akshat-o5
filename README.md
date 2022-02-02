@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying in SRM Institute of Science and Technology.
 
-- 👨‍💻 All of my projects will be available on **GITHUB**.
+- 👨‍💻 All of my projects will be available on **GITHUB**
 
 - 📫Reach me at **a.akshat903@gmail.com**. 
 
