@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying in **SRM Institute of Science and Technology.**
 
-- 🌱 I’m currently learning **Backend Development and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Backend Development and Data Structures and Algorithms.**
 
 - 👯 I’m currently working on **MERN stack**
 
