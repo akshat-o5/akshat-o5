@@ -3,8 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development using Python<br>👯 I’m looking to collaborate on Backend Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning FastAPI<br>
-
+🔭 I’m currently working on Backend Development using Python<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning FastAPI<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-gupta-4414ab22a/) 
