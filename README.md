@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Gupta</h1>.
+<h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">A passionate Data Analyst and Back-End Developer from India</h3>
 
 
